@@ -43,17 +43,6 @@ let card3 = {
      }
 };
 
-// function renderCard(card) {
-//     for(data in card){
-//         document.write('<h2>', `${data}: `, `${card[data]}`, '<h2>')
-//     }
-// }
-
-
-
-// renderCard(card1);
-// renderCard(card2);
-
 
 
 let cards = [card1, card2, card3];
